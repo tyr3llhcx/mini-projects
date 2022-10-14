@@ -1,3 +1,3 @@
-# mini-projects
+# Mini Projects
 
 Few Mini Projects
